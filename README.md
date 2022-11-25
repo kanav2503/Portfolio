@@ -1,2 +1,2 @@
 PORTFOLIO
-https://akshita-solanki.github.io/Portfolio/
+https://shre-yansh.github.io/Portfolio/
