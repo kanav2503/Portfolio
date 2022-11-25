@@ -111,7 +111,7 @@ body {
     height: 100px;
     align-items: center;
     justify-content: center;
-    padding: 30px;
+    padding: 23px;
     margin: 10px;
 
 
@@ -190,10 +190,11 @@ body {
 
     .s-card {
         justify-content: flex-start;
+        height: 130px;
     }
 
     .about {
-        height: 40em;
+        height: 45em;
         justify-content: center;
     }
 
@@ -225,6 +226,7 @@ body {
     .intro-content {
         margin: 10px;
         margin-left: 30px;
+        width: 70%;
     }
 
     .introo {
