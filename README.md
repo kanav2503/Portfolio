@@ -1,2 +1,2 @@
 PORTFOLIO
-[Vist Site](https://kanav2503.github.io/Portfolio/)
+https://kanav2503.github.io/Portfolio/
